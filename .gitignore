@@ -1,0 +1,12 @@
+.DS_Store
+.vagrant
+ansible/files/keys/secret/*
+ansible/files/ssl/*
+.ansible_pass
+/.idea/*
+/application/app/reports/
+/application/deploy/config/deploy/env_production.json
+/application/deploy/config/deploy/nijigaku-prod.p12
+/application/api-documents/
+.ruby-version
+.bundle
