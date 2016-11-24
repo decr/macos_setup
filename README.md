@@ -15,7 +15,7 @@ Homebrew/brew-caskインンストール
 
 必要なパッケージをインストール
 
-	$ brew brewdle
+	$ brew bundle
 
 gitの設定
 
